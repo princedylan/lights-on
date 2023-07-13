@@ -1,0 +1,26 @@
+html {
+    
+}
+
+* {
+    margin: 0 auto;
+}
+
+button {
+    margin: 40px 50%;
+    position: absolute;
+    bottom: 30%;
+    background: rgb(72, 212, 250);
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px 15px;
+    width: 180px;
+}
+
+#onn {
+    max-width: 500px;
+}
+
+#onn, #off {
+    display: none;
+}
